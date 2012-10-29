@@ -10,5 +10,8 @@ puedes obtener el tamaño de imagen deseado.
 Nota: Es importa tener la fuente correspondiente usadas en el diseño para
 generar nuevas imágenes.
 
-Las fuentes usadas son: [TODO: no recuerdo bien la fuente usada. A la espera de
-poder confirmar cual es la fuente]
+Las fuentes usadas son:
+ * http://www.dafont.com/es/teen.font
+ * http://www.dafont.com/es/teen.font?text=Cantarell
+ * http://www.dafont.com/es/teen.font?text=GungsuhChe
+
