@@ -12,6 +12,5 @@ generar nuevas imágenes.
 
 Las fuentes usadas son:
  * http://www.dafont.com/es/teen.font
- * http://www.dafont.com/es/teen.font?text=Cantarell
- * http://www.dafont.com/es/teen.font?text=GungsuhChe
+ * http://www.fontsquirrel.com/fonts/Cantarell
 
